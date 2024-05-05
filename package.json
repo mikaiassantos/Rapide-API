@@ -4,6 +4,8 @@
   "description": "api desenvolvida em nodejs com mangodb",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js", // Adicionei o script "start" para iniciar o servidor
+    "build": "echo 'Implemente o comando de compilação aqui'", // Adicionei o script "build" com uma mensagem de placeholder
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mikaias Santos",
